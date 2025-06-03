@@ -116,7 +116,7 @@ const WeaveApp = () => {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static" sx={{ bgcolor: '#1976d2' }}>
         <Toolbar>
-          <IconButton edge="start" color="inherit" href="http://riko122.blog.fc2.com/">
+          <IconButton edge="start" color="inherit" href="https://github.com/DawnMagnet/weaveup">
             <Home />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, ml: 2 }}>
@@ -268,7 +268,7 @@ const WeaveApp = () => {
 
       <Box sx={{ textAlign: 'center', py: 3, mt: 5, bgcolor: '#f5f5f5' }}>
         <Typography variant="body2" color="text.secondary">
-          © 2019-2024 <a href="http://riko122.blog.fc2.com/">{t('home')}</a>
+          ©DawnMagnet 2014-2025 <a href="https://github.com/DawnMagnet/weaveup">{t('home')}</a>
         </Typography>
       </Box>
     </Box>
